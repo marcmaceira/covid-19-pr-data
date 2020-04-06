@@ -1,2 +1,7 @@
 variables.env
 node_modules
+
+# Data files
+latest.csv
+municipalities.csv
+testing_labs/
