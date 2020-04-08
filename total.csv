@@ -1,4 +1,4 @@
-date,cases,deaths,negative,pending
+date,cases,deaths,negatives,pending
 3/12/2020,3,0,0,0
 3/13/2020,4,0,0,0
 3/14/2020,5,0,0,0
@@ -25,3 +25,4 @@ date,cases,deaths,negative,pending
 4/4/2020,475,20,3073,1039
 4/5/2020,513,21,3432,1000
 4/6/2020,573,23,3966,968
+4/7/2020,620,24,4266,1160

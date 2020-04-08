@@ -20,12 +20,12 @@ This repository will include a series of data obtained from the [Puerto Rico Hea
 
 **Daily Reports**:
 
-- Municipality: 04-06-2020
+- Municipality: 04-08-2020
 
-- Region: 04-06-2020
+- Region: 04-08-2020
 
 **Time Series**:
 
-- Municipality: 04-06-2020
+- Municipality: 04-08-2020
 
-- Region: 04-06-2020
+- Region: 04-08-2020
