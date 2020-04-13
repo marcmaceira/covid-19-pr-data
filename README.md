@@ -20,12 +20,12 @@ This repository will include a series of data obtained from the [Puerto Rico Hea
 
 **[Daily Report](https://github.com/marcmaceira/covid-19-pr-data/blob/master/total.csv)**:
 
-- [Municipality](https://github.com/marcmaceira/covid-19-pr-data/tree/master/daily_reports/by_municipality): 04-12-2020
+- [Municipality](https://github.com/marcmaceira/covid-19-pr-data/tree/master/daily_reports/by_municipality): 04-13-2020
 
-- [Region](https://github.com/marcmaceira/covid-19-pr-data/tree/master/daily_reports/by_region): 04-12-2020
+- [Region](https://github.com/marcmaceira/covid-19-pr-data/tree/master/daily_reports/by_region): 04-13-2020
 
 **Time Series**:
 
-- [Municipality](https://github.com/marcmaceira/covid-19-pr-data/tree/master/time_series/municipality): 04-12-2020
+- [Municipality](https://github.com/marcmaceira/covid-19-pr-data/tree/master/time_series/municipality): 04-13-2020
 
-- [Region](https://github.com/marcmaceira/covid-19-pr-data/tree/master/time_series/region): 04-12-2020
+- [Region](https://github.com/marcmaceira/covid-19-pr-data/tree/master/time_series/region): 04-13-2020
